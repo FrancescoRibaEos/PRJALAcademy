@@ -1,0 +1,36 @@
+{
+  "id": "fe63f870-6160-4bee-afdb-9a3d2bbee47e",
+  "name": "PRJ001.DL.Table",
+  "publisher": "EOS Solutions",
+  "version": "19.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "features": [
+    "TranslationFile"
+  ],
+  "supportedLocales": [
+    "en-US",
+    "it-IT"
+  ],
+  "dependencies": [  ],
+  "screenshots": [],
+  "platform": "19.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 60000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}

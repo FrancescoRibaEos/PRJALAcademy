@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PRJ001.DL.Table">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3847289925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3847289925 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3847289925 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3861973943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Campaign</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand Campaign - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3861973943 - Field 1853773618 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand Campaign - Field Brand Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3861973943 - Field 4075675287 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount Percentage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand Campaign - Field Discount Percentage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3861973943 - Field 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand Campaign - Field Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3861973943 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand Campaign - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3861973943 - Field 3868183637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Threshold Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ Brand Campaign - Field Threshold Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4140220667 - Field 934751667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of log line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ LogProcedure - Field LogLineNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4140220667 - Field 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ LogProcedure - Field Message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4140220667 - Field 1939641462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procedures Log Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ LogProcedure - Field ProceduresLogType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4140220667 - Field 1900957152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PRJ LogProcedure - Field SourceNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 337713419 - EnumValue 3371220206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PRJ EnumProceduresLogType - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 337713419 - EnumValue 1123587385 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Successful Change Brand Procedures</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PRJ EnumProceduresLogType - EnumValue SuccessfulChangeBrandProcedures - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 337713419 - EnumValue 1757866408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unsuccessful Change Brand Procedures</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PRJ EnumProceduresLogType - EnumValue UnsuccessfulChangeBrandProcedures - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
